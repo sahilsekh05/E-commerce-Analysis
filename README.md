@@ -52,10 +52,11 @@ The project uses a relational schema with multiple tables:
 
 ## 👉 Relationships
 
-- Orders ↔ Customers  
-- Orders ↔ Order Details  
-- Order Details ↔ Products  
-- Products ↔ Categories  
+- Customers (1) → Orders (Many)  
+- Orders (1) → Order Details (Many)  
+- Products (1) → Order Details (Many)  
+- Categories (1) → Products (Many)  
+- Employees (1) → Orders (Many) 
 
 This schema enables detailed analysis across **sales, products, and customers**.
 
