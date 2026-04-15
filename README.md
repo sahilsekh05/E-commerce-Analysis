@@ -161,4 +161,4 @@ It demonstrates how businesses can leverage data to:
 
 ## 📊 Dashboard Preview
 
-![Dashboard]([images/dashboard.png](https://github.com/sahilsekh05/E-commerce-Analysis/blob/main/page1.jpg)
+![Dashboard](https://github.com/sahilsekh05/E-commerce-Analysis/blob/main/page1.jpg)
